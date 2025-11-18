@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<Landsat8>"
+excerpt: "Short description of portfolio item number 1<Landsat8.jpeg>"
 collection: portfolio
 ---
 
